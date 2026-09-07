@@ -25,10 +25,6 @@
 ## Files
 - style.css - Base styles
 - sample.html - Sample page with all components
-- themes/minimal.css - MicroLighter minimal theme
-
-## Dependencies
-- [MicroLighter](https://github.com/davatron5000/microlighter) - Syntax highlighting (~2KB)
 
 ## Components
 - .btn - Button with #e9e9e9 background, #eee on hover
