@@ -12,8 +12,8 @@
 - White: #ffffff (background)
 - Black: #000000 (text, borders)
 - #e9e9e9 (buttons, boxes, table headers/borders, code background)
-- #555 (links default)
-- #777 (links hover)
+- #666 (links default)
+- #888 (links hover)
 - #eee (button hover)
 
 ## Design Rules
